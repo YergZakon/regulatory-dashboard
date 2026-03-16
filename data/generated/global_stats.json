@@ -1,0 +1,10 @@
+{
+  "totalRequirements": 64018,
+  "totalSpheres": 115,
+  "totalOkeds": 1301,
+  "totalAuthorities": 59,
+  "totalBusinesses": 2111377,
+  "totalDuplicatePairs": 822305,
+  "medianRequirements": 7369,
+  "maxRequirements": 35892
+}

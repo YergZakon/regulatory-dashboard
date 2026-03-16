@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "operational_process",
+    "name": "Операционные процессы",
+    "count": 25956,
+    "percent": 36.7
+  },
+  {
+    "slug": "equipment_infrastructure",
+    "name": "Инфраструктура и оборудование",
+    "count": 15586,
+    "percent": 22.1
+  },
+  {
+    "slug": "documents_records",
+    "name": "Документы и записи",
+    "count": 10070,
+    "percent": 14.3
+  },
+  {
+    "slug": "technical_parameter",
+    "name": "Технические параметры и нормативы",
+    "count": 6201,
+    "percent": 8.8
+  },
+  {
+    "slug": "prohibition_restriction",
+    "name": "Запреты и ограничения",
+    "count": 4972,
+    "percent": 7
+  },
+  {
+    "slug": "personnel_training",
+    "name": "Персонал и обучение",
+    "count": 2993,
+    "percent": 4.2
+  },
+  {
+    "slug": "reporting_notification",
+    "name": "Отчетность и уведомления",
+    "count": 2785,
+    "percent": 3.9
+  },
+  {
+    "slug": "approval_permit",
+    "name": "Согласования и разрешения",
+    "count": 1852,
+    "percent": 2.6
+  },
+  {
+    "slug": "financial_cost",
+    "name": "Финансовые обязательства",
+    "count": 226,
+    "percent": 0.3
+  }
+]
