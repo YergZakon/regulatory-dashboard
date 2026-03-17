@@ -7,6 +7,7 @@ const navLinks = [
   { href: "/", label: "Обзор" },
   { href: "/sections", label: "Секции" },
   { href: "/duplicates", label: "Дубликаты" },
+  { href: "/methodology", label: "Методология" },
 ];
 
 const searchItems = okedSummary.map((o: { id: string; name: string; reqs: number }) => ({
